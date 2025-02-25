@@ -5,7 +5,7 @@
 # i am legally obgliged to tell you that i am not responsible for your actions
 # if you still are gonna gamble please dont.
 # everything i say from this point on is a joke.
-# and also big shout out at nodejs, jscommunity, people at brainjs, python and tampermonkey
+# and also big shout out at nodejs, brainjs and tampermonkey
 this you?  
 ![ligma](https://github.com/user-attachments/assets/231b67cd-fd9e-4a17-9513-6e9e2f39bf0d)  
 A fucking loser?  
